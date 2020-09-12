@@ -8,7 +8,7 @@ package package1.text;
 
 /**
  *
- * @author aparna
+ * @author hp
  */
 public class subpackage1 {
     public void hello(){
