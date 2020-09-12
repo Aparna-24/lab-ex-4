@@ -11,7 +11,7 @@ import lab_4.books.journal_detail;
 
 /**
  *
- * @author Venkatesh
+ * @author hp
  */
 public class Lab_4 {
 
